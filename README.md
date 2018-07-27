@@ -1,3 +1,3 @@
-# shan5742.github.io
+# Personal Landing Page
 
 Simple Developer landing page that will beceom personal portfolio in due course
