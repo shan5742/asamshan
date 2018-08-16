@@ -1,3 +1,3 @@
 # Personal Landing Page
 
-Simple Developer landing page that will beceom personal portfolio in due course
+Simple developer landing page with links to various profiles and communities. 
