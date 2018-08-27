@@ -30,10 +30,11 @@ html {
 
 .icons-social i {
 	font-size: 3em;
+	transition: transform .2s;
 }
 
-.icons0social a:hover {
-
+.icons-social i:hover {
+	transform: scale(1.5);
 }
 
 /* Custom Styles */
